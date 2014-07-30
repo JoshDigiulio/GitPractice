@@ -1,1 +1,1 @@
-hi
+"Heello, #{ARVG.first}!"
